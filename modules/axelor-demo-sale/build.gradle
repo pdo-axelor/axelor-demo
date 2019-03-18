@@ -6,4 +6,5 @@ axelor {
 
 dependencies {
   compile project(':modules:axelor-demo-contact')
+  implementation "com.axelor:axelor-web:5.0.+"
 }
